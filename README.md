@@ -1,4 +1,4 @@
 # st2195_assignment_1
-## first asignment in github
+## first assignment in github
 there are 4 number in this assignment, we have to make in pyton and r 
 pyton using syder and R using R studio 
